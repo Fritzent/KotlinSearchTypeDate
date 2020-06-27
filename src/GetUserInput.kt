@@ -1,3 +1,3 @@
-open class inputUser(){
-    var status:String = readLine()!!
+open class InputUser {
+    var status: String = readLine()!!
 }
